@@ -9,4 +9,4 @@ Then it calls the print_usernames function, which prints the usernames from the 
 At the end of the code, the get_github_users function is called with the argument 'Kyrgyzstan' to search for users with this location, 
 and then the result is passed to the print_usernames function to print their usernames.
 
-![GitHub Users](https://user-images.githubusercontent.com/101027445/214715960-a02d1244-9b62-424c-a4f3-c1f93a3aab3e.png)
+![GitHub Users](https://user-images.githubusercontent.com/101027445/214715960-a02d1244-9b62-424c-a4f3-c1f93a3aab3e.png) 
